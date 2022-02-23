@@ -16,7 +16,10 @@ There are minimal coding implemented thanks to Unity. The code I had to implemen
 the root directory of the folder can be open via Unity, just open with Unity and it should load everything; In that case, please click play button in Unity with accessible web cam and turn the web cam into the front and back of the book cover. It should pop up an AR cover for this book
 
 Second way to do it is open the testbuild folder through Xcode and build it on an IPhone. To do that you can simply open the folder with Xcode program and connect your phone and build to your phone. Note, that your IPhone need to be IOS 12 or later.
+At the same time, make sure you updated your signing and bundle identifier in order to run it!
 
 
 ## AR BUTTON:
+Hover over (COVER) the book serial number on the back of the book on the center bottom will display a paragraph about this book! :)
 
+ENJOY!
